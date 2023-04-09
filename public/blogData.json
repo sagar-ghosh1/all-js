@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "authorName": "John",
+        "authorImage": "https://images.pexels.com/photos/8090137/pexels-photo-8090137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Computer Science The Most Passionable Field",
+        "coverImage": "https://images.pexels.com/photos/265152/pexels-photo-265152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "readingTime": 5,
+        "publishedDate": "January 4 2023"
+    },
+    {
+        "id": 2,
+        "authorName": "Alex",
+        "authorImage": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Importance of Programming for CSE Student and Developers",
+        "coverImage": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "readingTime": 8,
+        "publishedDate": "February 23 2023"
+    },
+    {
+        "id": 3,
+        "authorName": "Sofia",
+        "authorImage": "https://images.pexels.com/photos/8993561/pexels-photo-8993561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "title": "Create Your Leadership Skills and Build Your Own Business",
+        "coverImage": "https://images.pexels.com/photos/3184405/pexels-photo-3184405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "readingTime": 12,
+        "publishedDate": "February 27 2023"
+    },
+    {
+        "id": 4,
+        "authorName": "Skaloni",
+        "authorImage": "https://s.hs-data.com/bilder/spieler/gross/2664.jpg?fallback=png",
+        "title": "Importance of Football",
+        "coverImage": "https://images.pexels.com/photos/3148452/pexels-photo-3148452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "readingTime": 10,
+        "publishedDate": "March 3 2023"
+    }
+]
